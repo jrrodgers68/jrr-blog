@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Confessions of a Technical Junkie`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `John Rodgers`,
+      summary: `who lives and works in the NYC area building (sometimes) useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A series of technical ramblings with hopefully some useful tidbits along the way`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `flying_feathers`,
     },
   },
   plugins: [
